@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anand99-rai
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Data science and retaled domain
+- 👀 I’m interested in ... Data Science and Machine Learning
+- 🌱 I’m currently learning ... Machine Learning
+- 💞️ I’m looking to collaborate on ... Data science, Machine Learning and retaled domain
 - 📫 How to reach me ... on linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... Learn & Earn to grow.
